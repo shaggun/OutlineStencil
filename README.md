@@ -1,5 +1,4 @@
 # OutlineStencil
-=====================================
 This shader creates an outline with a transparent gap using stencils.
 ![img](https://i.imgur.com/bShIM73.jpg)
 
